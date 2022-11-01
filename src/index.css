@@ -1,0 +1,17 @@
+input{
+    width: 5rem;
+    background-color: blue;
+    color: white;
+}
+.display1{
+    background-color: aliceblue;
+    width: 15rem;
+    color: black;
+}
+tr{
+    box-shadow: 2rem;
+}
+table {
+    border: 1px solid white;
+    padding: 2rem;
+}
